@@ -1,5 +1,5 @@
 # openalex-utils
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smierz/openalex-utils/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smierz/openalex-utils/main?labpath=notebooks)
 [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smierz/openalex-utils)
 
 Jupyter notebooks with utility scripts for working with the [OpenAlex](http://openalex.org/) API.  
