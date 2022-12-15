@@ -8,3 +8,5 @@ If you'd like to try them yourself, just use one of the links at the top of this
 Currently contains the notebooks:
 * openalex_inverted_index_to_text:\
 A notebook showing how to recreate a work's abstract from its [abstract_inverted_index](https://docs.openalex.org/about-the-data/work#abstract_inverted_index).
+* openalex_translate_concept_using_wikidata:\
+A notebook showing how to pull all translations for a concept`s [display_name](https://docs.openalex.org/about-the-data/concept#display_name) from wikidata.
